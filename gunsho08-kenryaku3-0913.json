@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kenryaku3-0913-utaawase",
  "yomi": "けんりゃくさんねんくがつじゅうさんやうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "建暦3年（1213）9月13日",
+  "author": "未詳",
+  "desc": "九月十三夜に、江上月・暮山松・旅宿恋などの題で、定家・家隆・雅経・俊成卿女・為家らが詠み合わせた歌合。"
+ },
  "editions": [
   {
    "pid": "1879502",
